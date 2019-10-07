@@ -4,7 +4,7 @@
 
 	<groupId>com.sguessou</groupId>
 	<artifactId>sg-pet-clinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>sg-pet-clinic</name>
 	<description>Pet Clinic Project</description>
 
@@ -49,7 +49,7 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:sguessou/sg-pet-project-spring5.git</developerConnection>
-    <tag>sg-pet-clinic-0.0.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
