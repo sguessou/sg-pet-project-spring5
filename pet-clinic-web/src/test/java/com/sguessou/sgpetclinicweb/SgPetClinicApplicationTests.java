@@ -1,4 +1,4 @@
-package com.sguessou.sgpetclinic;
+package com.sguessou.sgpetclinicweb;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

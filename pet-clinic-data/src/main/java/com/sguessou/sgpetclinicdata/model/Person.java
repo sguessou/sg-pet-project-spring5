@@ -1,4 +1,4 @@
-package com.sguessou.sgpetclinic.model;
+package com.sguessou.sgpetclinicdata.model;
 
 public class Person {
     private String firstName;
